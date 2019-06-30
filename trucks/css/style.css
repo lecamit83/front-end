@@ -1,0 +1,29 @@
+html {
+    height: 100%;
+}
+body{
+    padding-top: 20px;
+}
+.nav-justify {
+    background-color: #eee;
+    border-radius: 5px;
+}
+a:hover {
+    background-color: #e5e5e5;
+}
+.jumbotron {
+    padding: 0px 21px;
+    text-align: center;
+    background-color: transparent !important;
+}
+.jumbotron h1 {
+    font-size: 63px;
+}
+.jumbotron lead {
+    font-weight: 200;
+    font-size: 21px;
+}
+.jumbotron .btn {
+    padding: 15px 25px;
+    font-size: 22px;
+}
