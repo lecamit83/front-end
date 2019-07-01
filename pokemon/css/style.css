@@ -1,0 +1,39 @@
+html {
+    height: 100%;
+}
+
+a:active {
+    background-color: black;
+}
+a:hover {
+    background-color: gray;
+}
+.black {
+    color: black !important;
+}
+.wrapper-nav {
+    margin-bottom: 64px;
+}
+.container .container-fluid .center {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.container .container-fluid .center-row {
+    display: flex;
+    flex-direction: row;
+}
+.container .container-fluid .center-row {
+    display: flex;
+    flex-direction: row;
+}
+.row {
+    margin-right: -15px !important;
+    margin-left: -15px !important;
+}
+.micky {
+    padding-left: 55px !important;
+    text-align: center;
+    padding-top: 80px;
+}
